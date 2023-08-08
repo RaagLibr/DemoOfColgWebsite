@@ -1,11 +1,11 @@
 ## DemoOfColgWebsite
 This is a *static web oriented application* allows us to access the whole information about the college, staffs, students, facilities, etc. This static web application application provides a virtual tour of Campus.
 
-###Navigation bar
+### Navigation bar
 List of Links. A navigation bar needs standard HTML as a base. Here i build the navigation bar from a standard HTML list.
 in navigation bar i added more than 5 pages as per requirement of the professor. i.e., ICT , Naac, About us , Home, Gallery , Faculties included Art and commerce, exam page, contact us and login or sign up page.
 
-###Home page :-
+### Home page :-
 It is basic structure of the library.
 Header of the website is implement by animation properties of CSS.
 Home page contains owl Carousel library , OWL Carousel is an enabled jQuery plugin that lets you create responsive carousel sliders.
@@ -22,7 +22,7 @@ after the style of the fond changes
 ![Untitled](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/efdf62da-7779-495c-a4a2-f811e180281b)
 
 
-###Gallery page 
+### Gallery page 
 Gallery Pages are the foundation of any Format site. They allow you to display your visual work in a stunning gallery of images.
 
 
@@ -31,20 +31,20 @@ Gallery Pages are the foundation of any Format site. They allow you to display y
 ![gallery](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/55b78fb1-98ed-4bb6-a22d-db878d4c5ff7)
 
 
-###Examination notification page
+### Examination notification page
 It provide all the information regarding to the syllabus and sample or final exams.
 
 
 ![screencapture-file-F-css-design-new-college-site-exam-html-2023-08-07-15_38_31](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/7109a6d2-77e0-4ac4-bc98-f0b7a1c26b23)
 
 
-###about us page
+### about us page
 
 
 ![aboutus](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/a3eea3f2-fbd0-44d8-92ed-619e7ef56f52)
 
 
-###Contact page
+### Contact page
 ![contact](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/fc7c38a5-472b-4ae9-922f-4619af587e71)
 
 
