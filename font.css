@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Open+Sans:wght@300&display=swap&effect=shadow-multiple|fire-animation|neon');
+		
+		*
+		{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+		body
+		{
+			display: ;
+			justify-content: center;
+			flex-direction: center;
+			height: 100vh;
+			font-family: 'Luxurious Roman', cursive;
+font-family: 'Open Sans', sans-serif;
+
+		}
+		h2
+		{
+			font-size: 2em ;
+			font-family: 'Luxurious Roman', cursive;
+font-family: 'Open Sans', sans-serif;
+		}
