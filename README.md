@@ -17,8 +17,7 @@ each page is end up by the footer of the website which contan the sub-details of
 
 ![screencapture-file-F-css-design-new-college-site-index-html-2023-08-07-15_37_18](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/20b1a0d0-1fb1-4bc6-b9c1-01e25c86ccf5)
 
-after the style of the fond changes 
-
+### adding fonts
 ![Untitled](https://github.com/RaagLibr/DemoOfColgWebsite/assets/101311420/efdf62da-7779-495c-a4a2-f811e180281b)
 
 
