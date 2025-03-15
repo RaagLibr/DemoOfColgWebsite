@@ -1,6 +1,8 @@
 ## DemoOfColgWebsite
 This is a *static web oriented application* allows us to access the whole information about the college, staffs, students, facilities, etc. This static web application application provides a virtual tour of Campus.
 
+## UG-Academic project 
+
 ### Navigation bar
 List of Links. A navigation bar needs standard HTML as a base. Here i build the navigation bar from a standard HTML list.
 in navigation bar i added more than 5 pages as per requirement of the professor. i.e., ICT , Naac, About us , Home, Gallery , Faculties included Art and commerce, exam page, contact us and login or sign up page.
